@@ -1,4 +1,8 @@
 ### Hi there 👋
+
+- 🌱 I’m currently learning Flutter
+- 💬 Ask me about Ethical Hacking/Programming
+- 📫 How to reach me: anastasiospantz@protonmail.com
 <!--
 **apantzar/apantzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
