@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=apantzar&&show_icons=true&border_radius&theme=default">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=25">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=10">
 
 
 
