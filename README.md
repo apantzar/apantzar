@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=20&theme=dark">
 
 
-
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Ethical Hacking/Programming
 - 📫 How to reach me: anastasiospantz@protonmail.com
