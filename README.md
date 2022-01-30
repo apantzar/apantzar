@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=apantzar&&show_icons=true&border_radius&theme=dark">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=20&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=50&theme=dark">
 
 
 - 🌱 I’m currently learning Flutter
