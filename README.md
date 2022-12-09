@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning React & Django
 - 💬 Ask me about Ethical Hacking/Programming
-- 📫 How to reach me: anastasiospantz@protonmail.com
+- 📫 How to reach me: anastasiospantz@gmail.com
