@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=50&theme=dark">
 
 
-- 🌱 I’m currently learning React & Django
+- 🌱 I’m currently learning Angular
 - 💬 Ask me about Ethical Hacking/Programming
 - 📫 How to reach me: anastasiospantz@gmail.com
