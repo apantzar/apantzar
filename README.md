@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apantzar&theme=dracula">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apantzar&theme=dracula&utcOffset=8">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apantzar&theme=dracula">
 
 
 - 🌱 I’m currently learning Angular
