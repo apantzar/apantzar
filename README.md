@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apantzar&layout=compact&langs_count=50&theme=dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apantzar&theme=dracula">
 
 
 - 🌱 I’m currently learning Angular
