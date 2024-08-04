@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apantzar&theme=dracula">
 
-
-- 🌱 I’m currently learning Angular
 - 💬 Ask me about Ethical Hacking/Programming
 - 📫 How to reach me: anastasiospantz@gmail.com
